@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sameer Limbu</h1>
+<h1 align="center">Hi 👋🏻, I'm Sameer Limbu</h1>
 <h3 align="center">A Passionate Software Developer based in London 🚀</h3>
 
 <p align="center">
