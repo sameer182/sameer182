@@ -48,7 +48,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask&logoColor=000000)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=blue) -->
 
-[![Frameworks & Libraries](https://skillicons.dev/icons?i=spring,tensorflow,flask,flutter&theme=dark)](https://skillicons.dev)
+[![Frameworks & Libraries](https://skillicons.dev/icons?i=spring,tensorflow,flask,django,flutter&theme=dark)](https://skillicons.dev)
 
 #### Databases 
 <!-- ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)
